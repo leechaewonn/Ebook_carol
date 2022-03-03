@@ -382,3 +382,12 @@ body{
 	bottom:0;
 	width:100%;
 }
+
+.fixed_box{
+    width:51px;
+    position:fixed;
+    right:50px;
+    bottom:20px;
+    display: inline-block;
+    z-index: 999999;
+}
